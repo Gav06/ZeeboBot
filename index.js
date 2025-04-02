@@ -26,4 +26,5 @@ client.on("messageCreate", (message) => {
     }
 })
 
+console.log("Attempting to login using DISCORD_TOKEN env variable...")
 client.login(process.env.DISCORD_TOKEN)
