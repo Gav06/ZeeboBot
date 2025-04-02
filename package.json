@@ -1,0 +1,23 @@
+{
+  "name": "zeebobot",
+  "version": "1.0.0",
+  "description": "Discord bot for Zeebo lounge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gav06/ZeeboBot.git"
+  },
+  "keywords": [
+    "bot",
+    "discordbot"
+  ],
+  "author": "Gav06",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gav06/ZeeboBot/issues"
+  },
+  "homepage": "https://github.com/Gav06/ZeeboBot#readme"
+}
